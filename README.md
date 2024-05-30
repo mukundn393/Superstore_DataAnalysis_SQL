@@ -1,5 +1,6 @@
 # Superstore_DataAnalysis_SQL
-This is a portfolio project on SQL 
+This is a SQL portfolio project, performed using MS SQL Server 
+
 Using superstore sales data, firstly
 1) Data Cleaning
 2) Data Transformations
